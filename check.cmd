@@ -1,0 +1,1 @@
+F:/sonar-scanner/bin/sonar-scanner.bat -X -D"sonar.login=sqa_f05d3e73b4cb79d5abdbf75f4a89ded51a42cf12"
